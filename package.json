@@ -1,0 +1,11 @@
+{
+  "name": "elegant.css",
+  "version": "0.0.1",
+  "description": "Some practical css class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
