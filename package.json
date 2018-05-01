@@ -1,6 +1,6 @@
 {
   "name": "elegant.css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some practical css class",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "justforuse",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/justforuse/elegant.css.git"
-    }
+    "type": "git",
+    "url": "https://github.com/justforuse/elegant.css.git"
+  }
 }
