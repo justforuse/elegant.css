@@ -1,0 +1,30 @@
+@mixin text-emphasis-variant($parent, $color) {
+  #{$parent} {
+    color: $color !important;
+  }
+}
+
+@mixin bg-color-emphasis-variant($key, $value) {
+  #{$key} {
+    background-color: $value !important;
+  }
+}
+
+@mixin display-emphasis-variant($key, $value) {
+  #{$key} {
+    display: $value !important;
+  }
+}
+
+@mixin cursor-emphasis-variant($key, $value) {
+  #{$key} {
+    cursor: $value !important;
+  }
+}
+
+@mixin text-style-emphasis-variant($key, $value) {
+  #{$key} {
+    text-decoration: $value !important;
+  }
+}
+
