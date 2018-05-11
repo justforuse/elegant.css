@@ -1,6 +1,6 @@
 {
   "name": "elegant.css",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Some practical css class",
   "main": "index.js",
   "scripts": {
